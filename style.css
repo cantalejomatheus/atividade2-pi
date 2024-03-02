@@ -1,0 +1,37 @@
+.body {
+    margin: 0; 
+    padding: 0; 
+    width: 100%;
+}
+
+.principal {
+    background-color: #ffbcbc; 
+    width: 200px; 
+    height: 200px;
+}
+
+.card-a {
+    background-color: #2b2a67; 
+    width: 100px; 
+    height: 100px;
+}
+
+.paragrafo {
+    color: rgb(217, 0, 246); 
+    background-color: rgb(12, 2, 124); 
+    font-size: 25px; 
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.card-b {
+    background-color: rgb(35, 148, 240); 
+    width: 70%; 
+    height: 70vw;
+}
+
+.card-c {
+    background-color: rgb(255, 247, 0); 
+    width: 90vw; 
+    height: 60vw;
+}
